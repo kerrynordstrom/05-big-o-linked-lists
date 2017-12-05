@@ -1,0 +1,27 @@
+{
+  "name": "05-big-o-linked-lists",
+  "version": "1.0.0",
+  "description": "Big O and Linked Lists",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest -i --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kerrynordstrom/05-big-o-linked-lists.git"
+  },
+  "keywords": [
+    "Big-O",
+    "Linked-List"
+  ],
+  "author": "Kerry Nordstrom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kerrynordstrom/05-big-o-linked-lists/issues"
+  },
+  "homepage": "https://github.com/kerrynordstrom/05-big-o-linked-lists#readme",
+  "dependencies": {
+    "eslint": "^4.12.1",
+    "jest": "^21.2.1"
+  }
+}
